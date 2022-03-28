@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @varunnaik1121
+- 👋 Hi, I’m varunnaik
 - 👀 I’m interested in web developement 
 - 🌱 I’m currently learning React JS
 - 💬 Ask me about anything. I won't know the answer anyway

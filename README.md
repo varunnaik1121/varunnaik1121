@@ -1,8 +1,5 @@
-- 👋 Hi, I’m varunnaik
-- 👀 I’m interested in web developement 
-- 🌱 I’m currently learning React JS
-- 💬 Ask me about anything. I won't know the answer anyway
-- 📫 How to reach me ...
+Hey There👋
+I'm Varun currently a Final Year BCA student at Kuvempu University and Web developer. My interest lies in field of Distributed Ledger Technologies, Software Development, Web Designning and developing.I have a love/hate relationship with Programming 😐
 
 <!---
 varunnaik1121/varunnaik1121 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
